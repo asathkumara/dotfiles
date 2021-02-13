@@ -1,2 +1,2 @@
 # dotfiles
-Personal dot files and shell
+Personal dot and shell files
