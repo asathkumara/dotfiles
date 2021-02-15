@@ -10,7 +10,7 @@
 #	chmod +x create_Makefile.sh
 #
 # After permission is granted, you can either:
-#	1) Run it in the same directory as your program, and pass in the name of your assembly#		 file (without the .s extension)
+#	1) Run it in the same directory as your program, and pass in the name of your assembly file (without the .s extension)
 #	        create_Makefile.sh (assembly file name)
 #
 #	2) Run it, and pass in the name of your assembly file (without the .s extension) and 
